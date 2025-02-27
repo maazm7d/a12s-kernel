@@ -1,0 +1,6 @@
+*.zip
+out/
+*.o
+*.ko
+*.d
+*.cmd
