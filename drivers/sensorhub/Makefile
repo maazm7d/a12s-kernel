@@ -1,3 +1,7 @@
+# Maaz changes on 26/01/2025
+subdir-ccflags-y += -Os -g0
+ccflags-y += -Os -g0
+
 shub-y += comm/shub_comm.o
 shub-y += comm/shub_iio.o
 shub-y += comm/shub_kfifo_buf.o
